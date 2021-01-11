@@ -1,1 +1,1 @@
-###*OpenGL* bindings for C# (not only net5.0)
+OpenGL bindings for C# (not only net5.0)
